@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1592030429 source:c:\users\koppany\desktop\serialtest\serialport.cpp
+	"SerialPort.h"
+
+1592030294 c:\users\koppany\desktop\serialtest\serialport.h
+	<windows.h>
+	<iostream>
+
+1592030567 source:c:\users\koppany\desktop\serialtest\main.cpp
+	<iostream>
+	"SerialPort.h"
+
