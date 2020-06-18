@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1592461150 source:c:\users\koppany\documents\crappyfoottracking\positiontest\main.cpp
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<openvr.h>
+	<windows.h>
+
+1592181555 c:\users\koppany\desktop\openvr-master\headers\openvr.h
+	<stdint.h>
+	<string>
+
